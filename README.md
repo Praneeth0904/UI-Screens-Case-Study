@@ -201,17 +201,9 @@ The second stage expanded into more complex applications and focused on deeper U
 
 ---
 
-## Burger King
+## 1. Burger King
 
-
-
-### Changes made
-
-- Included the Bottom nav bar with more important options.
-- Changed the offer button as a feature at top right corner.
-- Included Location feature to serve as an option to both Deliver and Dine In buttons.
-- Included basic menu to add more visibility and transparency.
-- Minimal background as white.
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/b91604c4-ea10-46d9-9dba-c6b1f6772a65" />
 
 ### Key Learning
 
@@ -219,13 +211,9 @@ Creating interfaces that encourage quick purchasing decisions.
 
 ---
 
-## Turo
+## 2. Turo
 
-### Focus Areas
-
-- Product Listings
-- Search Filters
-- Vehicle Information Architecture
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/7f065d86-ec21-427f-8786-f35765c29d14" />
 
 ### Key Learning
 
@@ -233,13 +221,9 @@ Presenting large amounts of information in a structured manner.
 
 ---
 
-## Luma
+## 3. Luma
 
-### Focus Areas
-
-- Reading Experience
-- Content Layout
-- Typography
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/69338bae-28b4-4fc4-8182-aed25a167222" />
 
 ### Key Learning
 
@@ -247,13 +231,9 @@ Designing for long-form content consumption.
 
 ---
 
-## 🍽 Zomato
+## 4. Vipps
 
-### Focus Areas
-
-- Restaurant Browsing
-- Food Discovery
-- User Reviews
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/74de63d1-e581-4a5e-a4b8-68fadec04cae" />
 
 ### Key Learning
 
@@ -261,13 +241,9 @@ Building interfaces around user decision-making.
 
 ---
 
-## 🌦 AccuWeather
+## 5. Sky Scanner
 
-### Focus Areas
-
-- Weather Data Visualization
-- Information Hierarchy
-- Dashboard Design
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/7e2b36ab-f229-473a-aa26-fcfcb7b3c7c6" />
 
 ### Key Learning
 
@@ -275,13 +251,9 @@ Simplifying data-heavy experiences.
 
 ---
 
-## ✈️ Airbnb
+## 6. Unsplash
 
-### Focus Areas
-
-- Travel Discovery
-- Listings
-- Visual Exploration
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/e8276eed-cdf5-42a7-ad06-8278d9ebf68f" />
 
 ### Key Learning
 
@@ -289,13 +261,9 @@ Balancing imagery and information effectively.
 
 ---
 
-## 💳 PhonePe
+## 7. Upwork
 
-### Focus Areas
-
-- Digital Payments
-- Financial Actions
-- Quick Transactions
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/37864761-5055-40bf-8cd1-3368ddba7312" />
 
 ### Key Learning
 
@@ -303,13 +271,9 @@ Improving usability in high-frequency tasks.
 
 ---
 
-## 🛒 Flipkart
+## 8. Coursera
 
-### Focus Areas
-
-- E-commerce Browsing
-- Product Discovery
-- Promotional Layouts
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/ce621a18-139c-4c83-97cf-e34c5b0cd003" />
 
 ### Key Learning
 
@@ -317,13 +281,9 @@ Designing conversion-focused experiences.
 
 ---
 
-## 💼 LinkedIn
+## 9. Medium
 
-### Focus Areas
-
-- Professional Networking
-- Feed Design
-- Content Structure
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/e5c83256-6847-4140-a687-1561985bc139" />
 
 ### Key Learning
 
@@ -331,13 +291,9 @@ Creating interfaces for both content and connections.
 
 ---
 
-## 🔐 Microsoft Authenticator
+## 10. Amazon Alexa
 
-### Focus Areas
-
-- Security
-- Verification Flows
-- Utility-First Design
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/97f71c9d-f346-4842-96ce-d6dc6f85b49d" />
 
 ### Key Learning
 
@@ -345,109 +301,69 @@ Prioritizing functionality without sacrificing usability.
 
 ---
 
-# 🌙 Dark Theme Exploration
+# More Advanced and Complex UI Screens
 
-The second half of the challenge focused heavily on dark-themed interfaces and advanced design systems.
-
----
-
-## 11. Twitter / X
-
-### Focus Areas
-
-- Feed Design
-- Dark Theme Consistency
-- Content Prioritization
+The second half of the challenge focused heavily on more complex and advanced design systems.
 
 ---
 
-## 12. Discord
+## 11. Brave Browser
 
-### Focus Areas
-
-- Community Platforms
-- Multi-Level Navigation
-- Communication UX
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/38afccbd-b25b-4ca2-accc-d43b0d038844" />
 
 ---
 
-## 13. YouTube Studio
+## 12. Gmail
 
-### Focus Areas
-
-- Analytics Dashboards
-- Creator Tools
-- Data Presentation
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/6331b0f9-e9d8-4446-9a13-f5d8fbde9ed4" />
 
 ---
 
-## 14. Google Play Console
+## 13. Linkedin
 
-### Focus Areas
-
-- Developer Dashboards
-- Data Visualization
-- System Interfaces
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/41a39d0d-fff9-4aeb-8f95-43195b6a5f61" />
 
 ---
 
-## 15. Twitch
+## 14. Figma
 
-### Focus Areas
-
-- Streaming Experience
-- Community Engagement
-- Live Content Discovery
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/4284199d-7dfc-48bd-9458-e3a7e3a9068b" />
 
 ---
 
-## 16. Instagram
+## 15. Digital Well-being
 
-### Focus Areas
-
-- Social Interactions
-- Content Discovery
-- Visual Hierarchy
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/4937db90-f5ba-4088-8131-c0927b00f088" />
 
 ---
 
-## 17. X (Advanced Redesign)
+## 16. Google
 
-### Focus Areas
-
-- Dark Theme Design
-- Feed Optimization
-- Interaction Design
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/3c47ede8-023f-42dd-9f70-602baaf2f9d8" />
 
 ---
 
-## 18. YouTube Music
+## 17. Telegram
 
-### Focus Areas
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/18f06843-1f4b-4119-b4d1-763ed124ef67" />
 
-- Music Discovery
-- Audio-Centric Interfaces
-- Media Consumption
+---
+
+## 18. Udemy
+
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/ca37a85a-0455-4ca2-973d-0086c48783bc" />
 
 ---
 
 ## 19. Amazon
 
-### Focus Areas
-
-- Shopping Experience
-- Product Browsing
-- Conversion Design
+<img width="1118" height="579" alt="Image" src="https://github.com/user-attachments/assets/7064be8e-6f0b-4e16-ba3c-b6eba8352f28" />
 
 ---
 
-## 20. Ola
+## 20. Railone
 
-### Focus Areas
-
-- Ride Booking Flow
-- Map Integration
-- Transportation UX
+<img width="1118" height="1150" alt="Image" src="https://github.com/user-attachments/assets/c308f63f-df3b-4acf-b41f-ea13e5ebc03e" />
 
 ---
 
@@ -548,74 +464,6 @@ Creating layouts that could easily grow into complete design systems.
 
 ---
 
-# 🖼 Case Study Showcase
-
-## Cover Page
-
-```md
-Add Hero Banner Here
-```
-
----
-
-## Project Overview
-
-```md
-Add Overview Section Here
-```
-
----
-
-## Stage 01 — Light Theme Screens
-
-| Application | Status |
-|------------|---------|
-| WhatsApp | ✅ |
-| YouTube | ✅ |
-| Spotify | ✅ |
-| Google | ✅ |
-| Telegram | ✅ |
-| Facebook | ✅ |
-| Gmail | ✅ |
-| Google Pay | ✅ |
-| ChatGPT | ✅ |
-| Netflix | ✅ |
-
----
-
-## Stage 02 — Advanced UI Recreation
-
-| Application | Status |
-|------------|---------|
-| Swiggy | ✅ |
-| Cars24 | ✅ |
-| Medium | ✅ |
-| Zomato | ✅ |
-| AccuWeather | ✅ |
-| Airbnb | ✅ |
-| PhonePe | ✅ |
-| Flipkart | ✅ |
-| LinkedIn | ✅ |
-| Microsoft Authenticator | ✅ |
-
----
-
-## Dark Theme Explorations
-
-| Application | Status |
-|------------|---------|
-| Twitter / X | ✅ |
-| Discord | ✅ |
-| YouTube Studio | ✅ |
-| Google Play Console | ✅ |
-| Twitch | ✅ |
-| Instagram | ✅ |
-| YouTube Music | ✅ |
-| Amazon | ✅ |
-| Ola | ✅ |
-
----
-
 # 💭 Reflection
 
 This challenge was much more than recreating screens.
@@ -630,21 +478,6 @@ It was an exercise in:
 
 Studying interfaces from multiple industries helped me understand how different products solve different user problems while still following core UX principles.
 
----
-
-# 🔗 Figma Links
-
-## Design File
-
-```text
-Add Figma Design Link Here
-```
-
-## Interactive Prototype
-
-```text
-Add Figma Prototype Link Here
-```
 
 ---
 
